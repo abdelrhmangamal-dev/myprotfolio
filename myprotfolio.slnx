@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/project/">
+    <File Path="clothes.html" />
+    <File Path="employee--management.html" />
+    <File Path="index.html" />
+    <File Path="script.js" />
+    <File Path="student--management.html" />
+    <File Path="style.css" />
+  </Folder>
+</Solution>
